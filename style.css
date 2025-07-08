@@ -374,6 +374,9 @@ hr{
     justify-content: center;
     gap: 100px;
 }
+.lowerfooterpaet .image img{
+    height:30px;
+}
 .otherpart{
     display: flex;
     align-items: center;
